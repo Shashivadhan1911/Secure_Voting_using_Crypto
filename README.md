@@ -159,9 +159,6 @@ Each notebook contains:
 - 💡 **Questions**: Check notebook comments and documentation
 - 🔧 **Improvements**: Submit pull requests
 
-## 📄 License
-
-MIT License - feel free to use for educational purposes
 
 ## 🙏 Acknowledgments
 
